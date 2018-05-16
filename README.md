@@ -6,3 +6,5 @@ Prof Cap Del Rios
 
 
 Exercícios SAB - 9 - Simulações 3DoF --> Senha = xkcd
+
+Exercícios SAB - 10 - Simulações 3DoF --> Senha = imgur
